@@ -1,3 +1,6 @@
+Grocery app created on React for your awesome shopping experience. Get Grocery, vegetables, fruits, household items, personal care products and anything needed in a household on day to day basis delivered on your door. Unbeatable prices and discounts with fast and timely home doorstep delivery.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
