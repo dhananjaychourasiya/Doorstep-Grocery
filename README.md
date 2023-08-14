@@ -1,6 +1,7 @@
+#LAUNCH : https://doorstepgrocerydotcom.firebaseapp.com/
+
 Grocery app created on React for your awesome shopping experience. Get Grocery, vegetables, fruits, household items, personal care products and anything needed in a household on day to day basis delivered on your door. Unbeatable prices and discounts with fast and timely home doorstep delivery.
 
-#LAUNCH : https://doorstepgrocerydotcom.firebaseapp.com/
 #TECH STACK: Javascript, CSS, HTML, React, React Router, Google Firebase, React Hooks etc.
 
 # Getting Started with Create React App
